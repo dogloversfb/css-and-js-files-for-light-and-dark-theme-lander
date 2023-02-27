@@ -45,6 +45,11 @@ a {
   text-decoration: none;
 }
 
+.arrow {
+	margin-left:0.5rem;
+	margin-bottom:-0.4rem;
+}
+
 .big-wrapper {
   position: relative;
   padding: 1.7rem 0 2rem;
@@ -119,11 +124,12 @@ header .container {
 }
 
 .btn {
-  display: inline-block;
+  display: ;
   padding: 0.9rem 1.9rem;
   color: #fff !important;
   background-color: var(--mainColor);
   border-radius: 16px;
+  font-size:1.1rem !important;
   text-transform: capitalize;
   transition: 0.3s;
 }
